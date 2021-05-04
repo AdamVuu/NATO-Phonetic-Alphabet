@@ -29,3 +29,24 @@ You're not truly trained in the phonetic alphabet until you have instantaneous
 recall. So don't count an answer correct unless the user types in the correct
 answer quickly enough. I think I set mine to something like 2-3 seconds or
 something like that.
+
+## Would be Very Nice
+
+Part III: close counts in horseshoes, hand grenades, and this game
+
+The point is to know the phonetic word that matches the letter, not to be an
+excellent typist. If the user makes a spelling mistake, but it's obvious what
+word they were going for, that should count right?
+
+So, implement the Levenshtein distance algorithm so that if the user gets one or
+two letters wrong, their answer will still count.
+
+Improve it further by also implementing Soundex Part IV: Ultimate Phonetic
+Tester
+
+A neural algorithm that models your own thinking process exactly. You don't have
+to type anything as the program already knows what you will type before you even
+begin the test.
+
+Ok I'm just kidding about this one but the others are all very good ways to get
+going.
